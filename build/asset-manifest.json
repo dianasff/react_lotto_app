@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19ce15f1.chunk.css",
+    "main.js": "/static/js/main.a29a7e52.chunk.js",
+    "main.js.map": "/static/js/main.a29a7e52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aeb1d266.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aeb1d266.js.map",
+    "static/js/2.07922a74.chunk.js": "/static/js/2.07922a74.chunk.js",
+    "static/js/2.07922a74.chunk.js.map": "/static/js/2.07922a74.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4b0fc90cc60bfe0c9c83a74bb219f23f.js": "/precache-manifest.4b0fc90cc60bfe0c9c83a74bb219f23f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.19ce15f1.chunk.css.map": "/static/css/main.19ce15f1.chunk.css.map",
+    "static/js/2.07922a74.chunk.js.LICENSE": "/static/js/2.07922a74.chunk.js.LICENSE",
+    "static/media/lotto.css": "/static/media/brandi-redd-unsplash.eccc6f8a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeb1d266.js",
+    "static/js/2.07922a74.chunk.js",
+    "static/css/main.19ce15f1.chunk.css",
+    "static/js/main.a29a7e52.chunk.js"
+  ]
+}
